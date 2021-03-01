@@ -16,3 +16,5 @@ A simple barcode reader using opencv and pyzbar .
   
  This is for windows for mac and linux please find in google.
  Once installed the following code can be used to create a realtime barcode reader
+ 
+ Created by @vikram-12
