@@ -11,7 +11,7 @@ A simple barcode reader using opencv and pyzbar .
   pip install opencv-python
   # pyzbar
   pip install pyzbar
-  #pillow
+  # pillow
   pip install pillow
   
  This is for windows for mac and linux please find in google.
